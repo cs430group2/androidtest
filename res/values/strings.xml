@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">Khajah</string>
+    <string name="hello_world">your total is 0</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="abbas_khajah">my name is abbas khajah please enter your name</string>
+    <string name="ref">this is a reference</string>
+	<string name="Add">Add one</string>
+    <string name="Sub">Subtract one</string>
+    <string name="name">Please enter your name</string>
+    <string name="userapper">Enter you FAV movie </string>
+    <string name="Click_Enter">Click Enter</string>
+    
+</resources>
