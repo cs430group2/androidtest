@@ -36,17 +36,7 @@
             </intent-filter>
         </activity>
         
-        <activity
-            android:name=".Menu"
-            android:label="@string/title_activity_main" 
-          android:exported="false">
-                                                    
-            <intent-filter>
-               <action android:name="khajah.example.khajah.Menu" />
-							
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
-        </activity>
+        
         
         
         

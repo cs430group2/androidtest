@@ -35,7 +35,7 @@ public class Splash extends Activity {
 				 
 				 e.printStackTrace();
 			 } finally{
-				 Intent openMainActivity = new Intent("khajah.example.khajah.Menu");
+				 Intent openMainActivity = new Intent("khajah.example.khajah.MAINACTIVITY");
 				 startActivity(openMainActivity);
 				 
 			 }
